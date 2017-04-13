@@ -1,0 +1,90 @@
+
+[http]
+proxy = "proxy:8080"
+
+[registry]
+token = "18k5lNVgTzCme2KzX2spu0MpO0lsKadh"
+
+[target.i686-pc-windows-gnu]
+rustflags = [
+  "-C", "link-arg=-lusp10", 
+  "-C", "link-arg=-lgdi32", 
+  "-C", "link-arg=-lcomctl32", 
+  "-C", "link-arg=-luxtheme", 
+  "-C", "link-arg=-lmsimg32", 
+  "-C", "link-arg=-lcomdlg32", 
+  "-C", "link-arg=-ld2d1", 
+  "-C", "link-arg=-ldwrite", 
+  "-C", "link-arg=-lole32", 
+  "-C", "link-arg=-loleaut32", 
+  "-C", "link-arg=-loleacc", 
+  "-C", "link-arg=-luuid",
+  "-C", "link-arg=-lsupc++",
+  "-C", "link-arg=-lstdc++",   
+  "-C", "link-arg=-lgcc_eh",
+  "-C", "link-arg=-lpthread", 
+  "-C", "link-arg=C:\\Users\\plyhuns\\rust\\workspace\\libui-rs\\ui\\target\\debug\\build\\ui-sys-cae071209db29024\\out\\build\\out\\libui.res", 
+]
+
+[target.x86_64-pc-windows-gnu]
+rustflags = [
+  "-C", "link-arg=-lusp10", 
+  "-C", "link-arg=-lgdi32", 
+  "-C", "link-arg=-lcomctl32", 
+  "-C", "link-arg=-luxtheme", 
+  "-C", "link-arg=-lmsimg32", 
+  "-C", "link-arg=-lcomdlg32", 
+  "-C", "link-arg=-ld2d1", 
+  "-C", "link-arg=-ldwrite", 
+  "-C", "link-arg=-lole32", 
+  "-C", "link-arg=-loleaut32", 
+  "-C", "link-arg=-loleacc", 
+  "-C", "link-arg=-luuid",
+  "-C", "link-arg=-lsupc++",
+  "-C", "link-arg=-lstdc++",   
+  "-C", "link-arg=-lgcc_eh",
+  "-C", "link-arg=-lpthread", 
+  "-C", "link-arg=C:\\Users\\plyhuns\\rust\\workspace\\libui-rs\\ui\\target\\debug\\build\\ui-sys-cae071209db29024\\out\\build\\out\\libui.res",  
+]
+
+[target.i686-pc-windows-msvc]
+rustflags = [
+  "-C", "link-arg=-lusp10", 
+  "-C", "link-arg=-lgdi32", 
+  "-C", "link-arg=-lcomctl32", 
+  "-C", "link-arg=-luxtheme", 
+  "-C", "link-arg=-lmsimg32", 
+  "-C", "link-arg=-lcomdlg32", 
+  "-C", "link-arg=-ld2d1", 
+  "-C", "link-arg=-ldwrite", 
+  "-C", "link-arg=-lole32", 
+  "-C", "link-arg=-loleaut32", 
+  "-C", "link-arg=-loleacc", 
+  "-C", "link-arg=-luuid",
+  "-C", "link-arg=-lsupc++",
+  "-C", "link-arg=-lstdc++",   
+  "-C", "link-arg=-lgcc_eh",
+  "-C", "link-arg=-lpthread", 
+  "-C", "link-arg=C:\\Users\\plyhuns\\rust\\workspace\\libui-rs\\ui\\target\\debug\\build\\ui-sys-cae071209db29024\\out\\build\\out\\libui.res", 
+]
+
+[target.x86_64-pc-windows-msvc]
+rustflags = [
+  "-C", "link-arg=-lusp10", 
+  "-C", "link-arg=-lgdi32", 
+  "-C", "link-arg=-lcomctl32", 
+  "-C", "link-arg=-luxtheme", 
+  "-C", "link-arg=-lmsimg32", 
+  "-C", "link-arg=-lcomdlg32", 
+  "-C", "link-arg=-ld2d1", 
+  "-C", "link-arg=-ldwrite", 
+  "-C", "link-arg=-lole32", 
+  "-C", "link-arg=-loleaut32", 
+  "-C", "link-arg=-loleacc", 
+  "-C", "link-arg=-luuid",
+  "-C", "link-arg=-lsupc++",
+  "-C", "link-arg=-lstdc++",   
+  "-C", "link-arg=-lgcc_eh",
+  "-C", "link-arg=-lpthread", 
+  "-C", "link-arg=C:\\Users\\plyhuns\\rust\\workspace\\libui-rs\\ui\\target\\debug\\build\\ui-sys-cae071209db29024\\out\\build\\out\\libui.res", 
+]
