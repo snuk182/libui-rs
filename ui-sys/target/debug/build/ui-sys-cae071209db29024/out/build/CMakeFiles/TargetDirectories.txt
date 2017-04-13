@@ -1,0 +1,16 @@
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/CMakeFiles/edit_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/CMakeFiles/libui.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/CMakeFiles/rebuild_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/common/CMakeFiles/edit_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/common/CMakeFiles/rebuild_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/windows/CMakeFiles/edit_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/windows/CMakeFiles/rebuild_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/test/CMakeFiles/tester.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/test/CMakeFiles/edit_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/test/CMakeFiles/rebuild_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/examples/CMakeFiles/controlgallery.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/examples/CMakeFiles/rebuild_cache.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/examples/CMakeFiles/examples.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/examples/CMakeFiles/histogram.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/examples/CMakeFiles/cpp-multithread.dir
+C:/Users/plyhuns/rust/workspace/libui-rs/ui-sys/target/debug/build/ui-sys-cae071209db29024/out/build/examples/CMakeFiles/edit_cache.dir

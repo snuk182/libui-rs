@@ -3,6 +3,7 @@ name = "ui-sys"
 version = "0.1.0"
 authors = ["Patrick Walton <pcwalton@mimiga.net>"]
 build = "build.rs"
+#links = ["usp10","gdi32","comctl32","uxtheme","msimg32","comdlg32","d2d1","dwrite","ole32","oleaut32","oleacc","uuid"]
 license = "MIT/Apache 2.0"
 description = "Native bindings to the minimalist, cross-platform, widget set `libui`"
 
@@ -10,4 +11,4 @@ description = "Native bindings to the minimalist, cross-platform, widget set `li
 libc = "0.2"
 
 [build-dependencies]
-cmake = "0.1.22"
+cmake = "0.1"
